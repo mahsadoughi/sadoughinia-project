@@ -1,3 +1,7 @@
 hello
+<<<<<<< HEAD
 
 
+=======
+hello  branch second
+>>>>>>> second
